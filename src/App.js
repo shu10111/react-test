@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        {/* 組件 */}
       </header>
     </div>
   );
